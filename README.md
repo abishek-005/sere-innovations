@@ -6,7 +6,7 @@ A modern, responsive landing page for Sere Innovations, an agri-tech company bri
 
 ---
 
-## 🌾 Project Overview
+## Project Overview
 
 This is a single-page landing website designed to communicate the value of Sere Innovations' smart incubator to rural poultry farmers. The site explains the problem (dependency on external hatcheries), presents the solution (affordable in-farm incubation), and drives user inquiry and demos.
 
@@ -16,7 +16,7 @@ This is a single-page landing website designed to communicate the value of Sere 
 
 ## 🎯 Features
 
-✅ **9 Required Sections:**
+**9 Required Sections:**
 - Hero section with call-to-action
 - Problem statement (external hatchery dependency)
 - Solution overview (smart incubator benefits)
@@ -27,7 +27,7 @@ This is a single-page landing website designed to communicate the value of Sere 
 - Strong CTA with inquiry form
 - Footer with contact information
 
-✅ **Design Highlights:**
+ **Design Highlights:**
 - Mobile-first responsive design (375px, 768px, 1280px+)
 - Farmer-friendly color palette: Forest Green + Cream + Amber
 - High legibility typography (18px+ body text)
@@ -35,7 +35,7 @@ This is a single-page landing website designed to communicate the value of Sere 
 - No emojis — professional, grounded aesthetic
 - Smooth interactions and hover states
 
-✅ **Accessibility:**
+**Accessibility:**
 - Semantic HTML structure
 - Proper heading hierarchy
 - Good color contrast
@@ -43,7 +43,7 @@ This is a single-page landing website designed to communicate the value of Sere 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Framework:** React 19.2.5
 - **Build Tool:** Vite 8.0.9
@@ -81,7 +81,7 @@ npm run dev
 
 ---
 
-## 🚀 Build & Deploy
+## Build & Deploy
 
 ### Build for production:
 ```bash
@@ -129,7 +129,7 @@ sere-landing/
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 - **Forest Green:** #1B4332 (primary, headings)
@@ -151,7 +151,7 @@ sere-landing/
 
 ---
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 | Breakpoint | Width | Layout |
 |-----------|-------|--------|
@@ -171,7 +171,7 @@ sere-landing/
 
 ---
 
-## 🔄 Available Scripts
+## Available Scripts
 
 - `npm run dev` — Start development server with HMR
 - `npm run build` — Build for production
@@ -180,7 +180,7 @@ sere-landing/
 
 ---
 
-## 📝 Content Guidelines
+## Content Guidelines
 
 This site follows the Sere Innovations PRD (Product Requirements Document) with emphasis on:
 - **Clarity:** Simple language, no jargon
@@ -190,7 +190,7 @@ This site follows the Sere Innovations PRD (Product Requirements Document) with 
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 - Add SVG illustrations (incubator, egg, chick, farmer)
 - Connect form to backend email service
@@ -202,23 +202,23 @@ This site follows the Sere Innovations PRD (Product Requirements Document) with 
 
 ---
 
-## 📄 License
+## License
 
 This project is proprietary to Sere Innovations (NayaGrowth Internship Task).
 
 ---
 
-## 👤 Author
+## Author
 
-**Your Name** — Frontend Developer Intern | NayaGrowth
+**Abishek Kishan**
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions about this project:
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Email: [ak.abishek005@gmail.com]
+- GitHub: [https://github.com/abishek-005]
 
 ---
 
